@@ -1,0 +1,11 @@
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.csproj.AssemblyReference.cache
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.login.resources
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.Properties.Resources.resources
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.csproj.GenerateResource.cache
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.csproj.CoreCompileInputs.cache
+C:\Users\Peekaboo\Documents\ProjectPapyrus\bin\Debug\ProjectPapyrus.exe.config
+C:\Users\Peekaboo\Documents\ProjectPapyrus\bin\Debug\ProjectPapyrus.exe
+C:\Users\Peekaboo\Documents\ProjectPapyrus\bin\Debug\ProjectPapyrus.pdb
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.exe
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.pdb
+C:\Users\Peekaboo\Documents\ProjectPapyrus\obj\Debug\ProjectPapyrus.Menu.resources
